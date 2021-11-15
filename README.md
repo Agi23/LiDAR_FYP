@@ -13,9 +13,7 @@ This methodology yielded a good model from the point cloud data with the best re
 The full report can be found in pdf format in this repository.
 
 ## LiDAR dataset:
-Since the LiDAR dataset collected was extremely large, it is stored in this Google drive folder:
-https://drive.google.com/drive/folders/1Y39fgW_kSC2XKlZ9mpXWKRPv9tUatTl-?usp=sharing
-
+Since the LiDAR dataset collected was extremely large, it is stored in this OneDrive folder: https://uctcloud-my.sharepoint.com/:f:/g/personal/sprago001_myuct_ac_za/Em7OYIsnsh9Lvz2hXubRri4BYtX_6MXZMbYkmdtYHtuubg?e=j93YVL which can be viewed by members of the University of Cape Town.
 ## Stl files
 The 3D print designs are found in the stl folder in a .stl format
 
